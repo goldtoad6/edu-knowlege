@@ -30,6 +30,12 @@
 ### 「幼小衔接分类合集」
 链接：https://pan.quark.cn/s/72e3a08581dc  
 
+### 「小猪佩奇（1-7季 中英文版 绘本剧本周边）」
+
+链接：https://pan.quark.cn/s/7aaa3ce4e864
+
+链接: https://pan.baidu.com/s/1QmNs0bj7JGC_7-YgF2dwiQ?pwd=dtgt 提取码: dtgt 
+
 ------------------
 
 ## 小学
@@ -86,7 +92,8 @@
 ### 「袁辅导 初中全科目系列」
 链接：https://pan.quark.cn/s/edebfeecf587
 
-
+### 「2025年《53中考总复习》7科全套（全国版）」
+链接：https://pan.quark.cn/s/df421d71ab1e
 
 ------------------
 
