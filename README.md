@@ -159,6 +159,10 @@ https://github.com/TapXWorld/ChinaTextbook
 ### 「【作业帮】2025版高考《押题密训卷》理科全套（全3套）」
 链接：https://pan.quark.cn/s/744c69f0ad5e
 
+### 「《十年高考真题》全科分类汇编（2014-2024）」
+链接：https://pan.quark.cn/s/0d8193f5ec11
+
+
 ------------------
 ## 大学
 
