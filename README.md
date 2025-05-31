@@ -45,6 +45,12 @@ https://pan.quark.cn/s/3b44afaa9cc7
 ## 小学
 
 
+### 1-6年级上下册奥数 
+
+https://pan.quark.cn/s/66cb29456930
+
+
+
 ### 「🎄漫画合集【168部303GB】
 链接：https://pan.quark.cn/s/025501fc44f6
 
