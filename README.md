@@ -44,6 +44,9 @@ https://pan.quark.cn/s/3b44afaa9cc7
 
 ## 小学
 
+### 「高斯数学趣味动画420集（1-6年级全）」
+
+链接：https://pan.quark.cn/s/d4691504a6f5
 
 ### 1-6年级上下册奥数 
 
