@@ -90,9 +90,6 @@ https://pan.quark.cn/s/66cb29456930
 号称3000词读遍天下名著（含文本+音频+PDF）」
 链接：https://pan.quark.cn/s/47c65ac1c5a4
 
-### 小学教育
-链接：https://x.com/FLMdongtianfudi/status/1931351275951812848
-
 ------------------
 
 ## 初中
