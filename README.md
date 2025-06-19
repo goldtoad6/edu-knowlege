@@ -8,6 +8,14 @@
 [202505](202505.md)
 [202506](202506.md)
 
+
+---------------
+
+
+# 赞助声明
+本项目由[VTEXS](https://vtexs.com/)的「开源项目免费 VPS计划」提供算力支持。
+感谢 VTEXS 对开源社区的支持！
+
 ---------------
 
 # 项目更多资源
@@ -46,12 +54,6 @@
 
 ---------------
 
-
-# 赞助声明
-本项目由[VTEXS]()的「开源项目免费 VPS计划」提供算力支持。
-感谢 VTEXS 对开源社区的支持！
-
----------------
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=mswnlz/edu-knowlege&type=Date)](https://www.star-history.com/#mswnlz/edu-knowlege&Date)
