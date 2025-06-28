@@ -56,7 +56,7 @@
 
 
 # 赞助声明
-本项目由[ZMTO]([https://zmto.com/](https://console.vtexs.com/?affid=12967))的「开源项目免费 VPS计划」提供算力支持。
+本项目由[ZMTO](https://console.vtexs.com/?affid=12967)的「开源项目免费 VPS计划」提供算力支持。
 感谢 ZMTO 对开源社区的支持！
 
 
