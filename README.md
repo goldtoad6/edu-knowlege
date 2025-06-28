@@ -11,13 +11,6 @@
 
 ---------------
 
-
-# 赞助声明
-本项目由[ZMTO](https://zmto.com/)的「开源项目免费 VPS计划」提供算力支持。
-感谢 ZMTO 对开源社区的支持！
-
----------------
-
 # 项目更多资源
 
 [🎁重磅资源！原价59880元 绝版中医课程资料大全【收藏版1.18TB】，包括基础、视频、外治、针灸、书籍等等等应有尽有](https://github.com/mswnlz/chinese-traditional)
@@ -57,6 +50,15 @@
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=mswnlz/edu-knowlege&type=Date)](https://www.star-history.com/#mswnlz/edu-knowlege&Date)
+
+---------------
+
+
+
+# 赞助声明
+本项目由[ZMTO]([https://zmto.com/](https://console.vtexs.com/?affid=12967))的「开源项目免费 VPS计划」提供算力支持。
+感谢 ZMTO 对开源社区的支持！
+
 
 ---------------
 
