@@ -25,7 +25,7 @@ jobs:
               --data-urlencode "text=  📢 新资源增加啦！
               📝 提交内容: ${{ github.event.head_commit.message }}
               🔗 查看详情: https://github.com/${{ github.repository }}
-              🎉 资料分享群：https://t.me/tgmknow")
+              🔗 超过100T资料总站网站：https://doc.869hr.uk")
             echo "Telegram response for chat_id $chat: $response"
           done
 
